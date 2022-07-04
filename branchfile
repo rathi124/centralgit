@@ -1,0 +1,4 @@
+#Git Branch Commands
+git branch   --To show all branches
+git branch <new branch>   -- To create new branch
+git checkout newbranch    -- To move from current branch to another branch
