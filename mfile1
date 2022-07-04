@@ -5,3 +5,4 @@ git log --oneline   -- To check what we have committed, also show commit id and 
 git show commitid   -- To show contents which we committed
 git remote add origin URLGITHUB_Repository   -- To add github repository 
 git push -u origin master   -- To Push commited files to github repository 
+git pull origin master   -- To pull files from github repository
