@@ -1,1 +1,7 @@
 Trying git commands in Mumbai region
+git add .   --- To add files to staging area
+git commit -m "commit message"  -- To commit code
+git log --oneline   -- To check what we have committed, also show commit id and other details
+git show commitid   -- To show contents which we committed
+git remote add origin URLGITHUB_Repository   -- To add github repository 
+git push -u origin master   -- To Push commited files to github repository 
